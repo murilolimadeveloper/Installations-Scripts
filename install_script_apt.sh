@@ -1,0 +1,46 @@
+#!/bin/bash
+
+
+
+echo "Welcome to the install_script_apt!"
+sleep 3
+echo "NOTE: This script only works with the APT package manager."
+echo "We will start in some few seconds ;)"
+echo " "
+sleep 3
+echo "Starting."
+echo " "
+sleep 0.5
+
+
+# installing snap
+sudo apt install snapd
+
+
+
+sudo apt install openjdk-8-jre
+# sudo pacman -S jre-openjdk
+# sudo pacman -S jdk8-openjdk
+# sudo pacman -S jre8-openjdk
+sudo apt install python3
+sudo apt install guvcview
+sudo apt install virtualbox
+sudo apt install wine
+sudo apt install cool-retro-term
+
+echo " "
+echo "*****Main programs installed. Installing terminal packages*****"
+echo " "
+
+sudo apt install sl
+sudo apt install cmatrix
+sudo apt install neofetch
+sudo apt install cowsay
+sudo apt install htop
+sudo apt install vim
+
+echo " "
+echo "***** All programs/packages installed *****"
+echo "***** Have a nice day! ;) *****"
+
+exit
