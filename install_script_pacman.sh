@@ -40,6 +40,13 @@ sudo pacman -S htop
 sudo pacman -S vim
 
 echo " "
+echo " ***** UPDATING... *****"
+sleep 1
+echo " "
+
+sudo pacman -Syu
+
+echo " "
 echo "***** All programs/packages installed *****"
 echo "***** Have a nice day! ;) *****"
 

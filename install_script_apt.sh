@@ -40,6 +40,13 @@ sudo apt install htop
 sudo apt install vim
 
 echo " "
+echo "***** UPDATING... *****"
+sleep 1
+echo " "
+
+sudo apt update -y
+
+echo " "
 echo "***** All programs/packages installed *****"
 echo "***** Have a nice day! ;) *****"
 
