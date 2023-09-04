@@ -1,0 +1,3 @@
+ppa:kdenlive/kdenlive-stable
+
+<< sudo snap install kdenlive >>

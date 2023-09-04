@@ -18,6 +18,13 @@ sudo pacman -S snapd
 
 
 
+# installing snap programs/packages
+sudo snap install kdenlive
+
+sudo snap install discord
+
+
+
 # sudo apt install openjdk-19-jre
 # sudo pacman -S jre-openjdk
 # sudo pacman -S jdk8-openjdk
@@ -45,6 +52,7 @@ sleep 1
 echo " "
 
 sudo pacman -Syu
+sudo snap refresh
 
 echo " "
 echo "***** All programs/packages installed *****"
