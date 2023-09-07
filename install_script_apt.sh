@@ -24,6 +24,7 @@ sudo snap install kdenlive
 sudo snap install discord
 
 
+# installing apt programs/packages
 
 sudo apt install openjdk-8-jre
 # sudo pacman -S jre-openjdk
@@ -52,7 +53,6 @@ sleep 1
 echo " "
 
 sudo apt update -y
-sudo snap refresh
 
 echo " "
 echo "***** All programs/packages installed *****"
