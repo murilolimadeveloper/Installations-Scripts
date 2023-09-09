@@ -21,6 +21,8 @@ sudo apt install snapd
 # installing snap programs/packages
 sudo snap install kdenlive
 
+sudo snap install glaxnimate
+
 sudo snap install discord
 
 
