@@ -26,6 +26,19 @@ sudo snap install glaxnimate
 sudo snap install discord
 
 
+
+# installing aur/yay
+sudo pacman -S yay
+
+
+
+# installing aur/yay programs/packages
+yay -S logmein-hamachi
+
+yay -S haguichi
+
+
+
 # installing pacman programs/packages
 
 # sudo apt install openjdk-19-jre
