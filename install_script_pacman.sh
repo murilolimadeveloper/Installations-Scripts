@@ -41,6 +41,7 @@ yay -S haguichi
 
 # installing pacman programs/packages
 
+sudo pacman -S steam steam-native-runtime
 # sudo apt install openjdk-19-jre
 # sudo pacman -S jre-openjdk
 # sudo pacman -S jdk8-openjdk

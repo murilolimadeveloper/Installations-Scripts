@@ -28,6 +28,8 @@ sudo snap install discord
 
 # installing apt programs/packages
 
+sudo add-apt-repository multiverse
+sudo apt install steam
 sudo apt install openjdk-8-jre
 # sudo pacman -S jre-openjdk
 # sudo pacman -S jdk8-openjdk
