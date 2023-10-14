@@ -25,6 +25,8 @@ sudo snap install glaxnimate
 
 sudo snap install discord
 
+sudo snap install gnome-calendar
+
 
 # installing apt programs/packages
 
