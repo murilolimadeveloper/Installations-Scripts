@@ -25,8 +25,6 @@ sudo snap install glaxnimate
 
 sudo snap install discord
 
-sudo snap install gnome-calendar
-
 
 
 # installing aur/yay
@@ -53,6 +51,7 @@ sudo pacman -S guvcview
 sudo pacman -S virtualbox # select "1" during the installation
 sudo pacman -S wine
 sudo pacman -S cool-retro-term
+sudo pacman -S cmake
 
 echo " "
 echo "*****Main programs installed. Installing terminal packages*****"

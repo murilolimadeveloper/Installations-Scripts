@@ -25,8 +25,6 @@ sudo snap install glaxnimate
 
 sudo snap install discord
 
-sudo snap install gnome-calendar
-
 
 # installing apt programs/packages
 
@@ -41,6 +39,7 @@ sudo apt install guvcview
 sudo apt install virtualbox
 sudo apt install wine
 sudo apt install cool-retro-term
+sudo apt install cmake
 
 echo " "
 echo "*****Main programs installed. Installing terminal packages*****"
