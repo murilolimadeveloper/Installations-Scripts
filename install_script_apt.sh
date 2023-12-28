@@ -25,6 +25,8 @@ sudo snap install glaxnimate
 
 sudo snap install discord
 
+sudo snap install mame
+
 
 # installing apt programs/packages
 

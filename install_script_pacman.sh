@@ -52,6 +52,8 @@ sudo pacman -S virtualbox # select "1" during the installation
 sudo pacman -S wine
 sudo pacman -S cool-retro-term
 sudo pacman -S cmake
+sudo pacman -S mame
+
 
 echo " "
 echo "*****Main programs installed. Installing terminal packages*****"
