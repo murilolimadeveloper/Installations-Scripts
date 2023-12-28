@@ -27,6 +27,8 @@ sudo snap install discord
 
 sudo snap install mame
 
+sudo snap install dosbox-x
+
 
 # installing apt programs/packages
 

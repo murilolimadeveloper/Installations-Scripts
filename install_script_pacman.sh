@@ -25,6 +25,8 @@ sudo snap install glaxnimate
 
 sudo snap install discord
 
+sudo snap install dosbox-x
+
 
 
 # installing aur/yay
