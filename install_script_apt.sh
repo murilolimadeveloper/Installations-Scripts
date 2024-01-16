@@ -44,6 +44,7 @@ sudo apt install virtualbox
 sudo apt install wine
 sudo apt install cool-retro-term
 sudo apt install cmake
+sudo apt install obs-studio
 
 echo " "
 echo "*****Main programs installed. Installing terminal packages*****"

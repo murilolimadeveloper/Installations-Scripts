@@ -55,6 +55,7 @@ sudo pacman -S wine
 sudo pacman -S cool-retro-term
 sudo pacman -S cmake
 sudo pacman -S mame
+sudo pacman -S obs-studio
 
 
 echo " "
