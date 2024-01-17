@@ -39,6 +39,7 @@ sudo apt install openjdk-8-jre
 # sudo pacman -S jdk8-openjdk
 # sudo pacman -S jre8-openjdk
 sudo apt install python3
+sudo apt install python-virtualenv
 sudo apt install guvcview
 sudo apt install virtualbox
 sudo apt install wine

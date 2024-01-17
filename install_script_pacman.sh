@@ -49,6 +49,7 @@ sudo pacman -S steam steam-native-runtime
 # sudo pacman -S jdk8-openjdk
 sudo pacman -S jre8-openjdk
 sudo pacman -S python3
+sudo pacman -S python-virtualenv
 sudo pacman -S guvcview
 sudo pacman -S virtualbox # select "1" during the installation
 sudo pacman -S wine
