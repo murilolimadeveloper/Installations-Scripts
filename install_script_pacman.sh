@@ -57,10 +57,12 @@ sudo pacman -S cool-retro-term
 sudo pacman -S cmake
 sudo pacman -S mame
 sudo pacman -S obs-studio
+sudo pacman -S python-virtualenv
+sudo pacman -S python-pipenv
 
 
 echo " "
-echo "*****Main programs installed. Installing terminal packages*****"
+echo "*****Main programs installed. Installing EXTRA terminal packages*****"
 echo " "
 
 sudo pacman -S sl

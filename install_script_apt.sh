@@ -39,16 +39,26 @@ sudo apt install openjdk-8-jre
 # sudo pacman -S jdk8-openjdk
 # sudo pacman -S jre8-openjdk
 sudo apt install python3
-sudo apt install python-virtualenv
+sudo apt install python3-pip
 sudo apt install guvcview
 sudo apt install virtualbox
 sudo apt install wine
 sudo apt install cool-retro-term
 sudo apt install cmake
 sudo apt install obs-studio
+sudo apt install python3-venv
+
 
 echo " "
-echo "*****Main programs installed. Installing terminal packages*****"
+echo "*****Installing PIP packages*****"
+echo " "
+
+
+sudo pip install pipenv
+
+
+echo " "
+echo "*****Main programs installed. Installing EXTRA terminal packages*****"
 echo " "
 
 sudo apt install sl
